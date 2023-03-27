@@ -43,3 +43,5 @@ Projects: [Bosque Galdua](https://gamejolt.com/games/bosquegaldua/669005/), [Car
 
 More information on my [**Linkedin**](https://www.linkedin.com/in/alan-brandi-954162211/) account .
 ###
+
+![snake gif](https://github.com/AlanBrandi/AlanBrandi/blob/output/github-contribution-grid-snake.svg)
