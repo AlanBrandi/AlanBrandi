@@ -30,14 +30,14 @@
 **Unity Developer - Current** \
 [**Artamus Studio**](https://www.linkedin.com/in/alan-brandi-954162211/) • Full-time \
 Skills: `C#`, `Unity2D`, `Unity3D`\
-Projects: [Picaroon - Ongoing](https://github.com/tfnt128/ProjectPicaroon).
+Projects: [Bosque Galdua - Ongoing](https://gamejolt.com/games/Bosque-Galdua/803303).
 <br/>
 
 [<img align="left" height="100px" width="120px" alt="Warpnet" src="https://i.imgur.com/Eung9g5.png"/>](https://www.linkedin.com/in/alan-brandi-954162211/)
 **Unity Developer - [02/2021 - 01/2023]** \
 [**NONAME STUDIO**](https://www.linkedin.com/in/alan-brandi-954162211/) • Full-time \
 Skills: `C#`, `Unity2D`, `Unity3D`\
-Projects: [Bosque Galdua](https://gamejolt.com/games/bosquegaldua/669005/), [Cardenal](https://gamejolt.com/games/Cardenal/764971/).
+Projects: [Bosque Galdua](https://gamejolt.com/games/Bosque-Galdua/803303/), [Cardenal](https://gamejolt.com/games/Cardenal/764971/).
 <br/>
 
 More information on my [**Linkedin**](https://www.linkedin.com/in/alan-brandi-954162211/) account .
