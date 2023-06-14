@@ -2,8 +2,8 @@
 - 👾 Indie Game Developer and co-owner Artamus Studio.
 - 📚 5th grade Game development at [**FACENS**](https://facens.br).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBrandi&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBrandi&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBrandi&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBrandi&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
