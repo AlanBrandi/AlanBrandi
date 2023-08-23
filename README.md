@@ -1,6 +1,7 @@
 ### Hello there! My name is Alan 🌙
 - 👾 Indie Game Developer and co-owner Artamus Studio.
-- 📚 5th grade Game development at [**FACENS**](https://facens.br).
+- 📚 Game developer by [**FACENS**](https://facens.br).
+- 📚 Administration by [**IFSP**](https://sor.ifsp.edu.br).
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanBrandi&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBrandi&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
